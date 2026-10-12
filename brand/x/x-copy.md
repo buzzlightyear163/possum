@@ -11,14 +11,22 @@ $POSSUM is a jester possum caught on a backyard trail cam at 3 a.m., playing dea
   - @possumonsol: säkert reservval
   - @thefoolpossum: från teckningen, "I am the fool"
 
-## Bio (relaterbar, 135 tecken, rekommenderad)
+## Bio (kort, samma spår som launch-inläggen)
+Använd inte samma rad i bion som i det fästa inlägget.
+
+### 1. Rekommenderad (63 tecken)
 ```
-chart red. you don't sell. you just lie very still. $POSSUM is the jester possum who plays dead every dip and never lets go of the bag.
+he plays dead every time the chart goes red. so do you. $POSSUM
 ```
 
-## Bio (rak, 140 tecken)
+### 2. (44 tecken)
 ```
-$POSSUM is a jester possum caught on a backyard trail cam at 3am, playing dead because the chart went red. bag still in his paws. he's fine.
+red chart. didn't sell. didn't move. $POSSUM
+```
+
+### 3. Viltkameran (74 tecken)
+```
+subject has not moved since the chart went red. bag still in paws. $POSSUM
 ```
 
 - Webbplats: [länk]
