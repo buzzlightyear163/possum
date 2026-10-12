@@ -17,21 +17,23 @@ A jester possum who plays dead every time the chart dumps. Tongue out, eyes cros
 - Webbplats: [länk]
 - Plats: `on my back, still holding`
 
-## Launch-inlägg (609 tecken, 272 före "Show more")
+## Launch-inlägg (707 tecken, 279 före "Show more")
 Bifoga: playing dead-bannern (eller en skärminspelning när du trycker Dump it på sajten).
 ```
 $POSSUM is live.
 
-You know the move. The chart dumps, you close the app and lie very still.
+The coin for everyone who plays dead instead of selling.
 
-Possums do it too: they drop on their back, tongue out, eyes crossed. They don't decide to. It's a reflex.
+You know the move. The chart dumps 60%, you don't sell. You close the app and lie very still.
 
-$POSSUM is that possum. Plays dead every dip. Never lets go of the bag.
+Possums do the same thing. Scared, they drop on their back, tongue out. They don't choose to. It's a reflex.
 
-→ No utility. No roadmap. No staking. It's a meme.
-→ On the site he's awake or dead depending on the live $POSSUM 1h chart.
-→ Get your toe tag: proof you played dead and still held.
-→ Six reaction images for every red chart on CT.
+So he's our mascot. He plays dead every dip and never lets go of the bag.
+
+→ No utility. No roadmap. It's a meme.
+→ The site runs on the live $POSSUM chart: green, he's up. Red, he's on his back.
+→ Make your toe tag: proof you played dead and still held.
+→ Grab the reaction pack and post him under every red chart on CT.
 
 Not a strategy. A reflex.
 

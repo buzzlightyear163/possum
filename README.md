@@ -1,51 +1,54 @@
-# $POSSUM · Plays dead every dip
+# $POSSUM · CAM 02 · BACKYARD
 
-Statisk sajt i en fil. Ingen build, inga API-nycklar.
+En billig viltkamera fastspänd på en staketstolpe, en bakgård klockan 03:14. Possumen ligger på rygg och spelar död.
 
-## Filer
+Statisk sajt, en fil. Ingen build, inga API-nycklar.
 
-- `index.html`: hela sajten (HTML, CSS och JS i samma fil)
-- `img/`: possumen i fyra lägen (frilagda), bannern och pfp
-- `og.jpg`: delningsbild för X (1200×630)
-- `favicon.png`, `apple-touch-icon.png`
+## Delar
+
+- **Ingång:** `▶ PLAY TAPE`. Bruset slår på och ljudet startar (syrsor, vind, bandbrus).
+- **Live-kameran:** bakgården med possumen, REC, tidsstämpel och rörelsesensor. Klicka på possumen för att peta på honom. Var femte gång öppnar han ett öga.
+- **Akten:** viltvårdens incidentrapport på en clipboard, med din teckning som vittnesskiss.
+- **SD-kortet:** 13 bilder från kameran. Öppna en bild för att se den större och spara den med kamerans infofält inbränt.
+- **End of tape:** VCR-blå slutskärm med CA som bevislapp, Buy, X, TG och Rewind.
 
 ## Fyll i vid launch
 
-Öppna `index.html` och leta upp `CONFIG` längst upp i `<script>`:
+Överst i `<script>` i `index.html`:
 
 ```js
 const CONFIG = {
   ca: "",          // mint-adressen
   x: "",           // https://x.com/...
   telegram: "",    // https://t.me/...
-  site: "",        // https://din-doman.xyz (läggs till i delningstexten)
-  awakeAbove: 3,   // 1h-förändring över +3 % = vaken
-  deadBelow: -3,   // 1h-förändring under −3 % = spelar död
-  refreshSeconds: 30
+  awakeAbove: 3,
+  deadBelow: -3,
+  refreshSeconds: 25
 };
 ```
 
-- **Tom `ca`:** CA-rutorna visar "Posted here and on X at launch", Buy-knapparna scrollar till token-sektionen och possumen ligger med ett öga öppet (PREVIEW).
-- **Med `ca`:** Buy går till `pump.fun/coin/<ca>`, Chart-knappen visas, och possumen följer den riktiga 1h-charten från Dexscreener var 30:e sekund (LIVE).
-- **Tom X eller Telegram:** den knappen döljs. Är båda tomma döljs hela raden.
+- **Tom `ca`:** BUY och CA syns inte, och possumen ligger död.
+- **Med `ca`:** BUY går till pump.fun och CA-knappen och bevislappen dyker upp. Rörelsesensorn följer 1h-förändringen från Dexscreener:
+  - över +3 % hoppar han upp (MOTION DETECTED)
+  - under −3 % ligger han död (NO MOTION)
+  - däremellan har han ett öga öppet
+- **Tom X eller TG:** knappen döljs.
 
-## Deploy (GitHub → Vercel)
+## Filer
 
-1. Lägg mappen i ett nytt GitHub-repo.
-2. Vercel → Add New Project → välj repot → Framework Preset: **Other**, inget build-kommando, output-mapp: roten.
-3. Deploy.
+- `img/plate.webp`: bakgården (tom)
+- `img/dead|peek|alive|back.webp`: possumens fyra lägen, frilagda
+- `img/sketch.webp`: din teckning
+- `caps/01–13.webp` och `-sm`-versioner: kamerabilderna
+- `og.jpg`: delningsbild för X
+
+## Deploy
+
+GitHub → Vercel med Framework Preset **Other**, inget build-kommando.
 
 ## Kolla efter deploy
 
-- Bagel Fat One, Gabarito och Special Elite laddas från Google Fonts (rubriken ska vara tjock och rundad).
-- Rainbow-spiralen rör sig och blir mörk när du trycker **Dump it**.
-- Toe tag: ändra handle eller dip, ladda ner PNG och kolla att texten sitter på lappen.
-- Reaction pack: alla sex bilderna syns och **Save** laddar ner dem.
-- X-förhandsvisning: klistra in länken i en tweet-draft. Om bilden inte syns, byt `/og.jpg` i meta-taggarna mot den fullständiga adressen, t.ex. `https://din-doman.xyz/og.jpg`.
-- Med CA ifylld: status-chippet ska säga **LIVE** med en grön lampa.
-
-## Vad som är på riktigt och vad som är exempel
-
-- Hero-statusen är live först när CA:n är ifylld och paret finns på Dexscreener.
-- **Dump it** och **Pump it** är simuleringar och märks SIMULATED.
-- Candle-charten i "The reflex" är ett exempel och märks som det.
+- Typsnitten VT323, Bagel Fat One, Special Elite och Reenie Beanie laddas från Google Fonts.
+- Ljudet startar när du trycker PLAY TAPE och kan stängas av med SND.
+- Save i bildvisaren laddar ner en jpg med infofältet.
+- X-förhandsvisningen: om bilden inte syns, byt `/og.jpg` i meta-taggarna mot den fullständiga adressen.
