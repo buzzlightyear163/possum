@@ -1,85 +1,122 @@
-# $POSSUM · X-kit
+# $POSSUM · X-kit (CAM 02 · BACKYARD)
+
+Kärnmening (postas inte):
+$POSSUM is a jester possum caught on a backyard trail cam at 3 a.m., playing dead because the chart went red, and still holding the bag.
 
 ## Namn
 - Visningsnamn: `$POSSUM`
-- Handle (bäst först, kolla själv att de är lediga): @possumholding, @possumonsol, @thefoolpossum, @playingdeadsol
+- Handle (bäst först, kolla själv att de är lediga):
+  - @playingpossum: själva ordvitsen, hela skämtet i namnet
+  - @possumcam: matchar sajtens värld
+  - @possumonsol: säkert reservval
+  - @thefoolpossum: från teckningen, "I am the fool"
 
-## Bio (rekommenderad, 128 tecken)
+## Bio (relaterbar, 135 tecken, rekommenderad)
 ```
-it is me. i am the fool. i play dead every time the chart dumps and i never let go of the bag. not a strategy. a reflex. $POSSUM
+chart red. you don't sell. you just lie very still. $POSSUM is the jester possum who plays dead every dip and never lets go of the bag.
 ```
 
-## Bio (rak, 141 tecken)
+## Bio (rak, 140 tecken)
 ```
-A jester possum who plays dead every time the chart dumps. Tongue out, eyes crossed, bag still in his paws. Not a strategy. A reflex. $POSSUM
+$POSSUM is a jester possum caught on a backyard trail cam at 3am, playing dead because the chart went red. bag still in his paws. he's fine.
 ```
 
 - Webbplats: [länk]
-- Plats: `on my back, still holding`
+- Plats: `under the porch light`
 
-## Launch-inlägg (707 tecken, 279 före "Show more")
-Bifoga: playing dead-bannern (eller en skärminspelning när du trycker Dump it på sajten).
+## Launch-inlägg (kort, bilden gör jobbet, sajten ligger i profilen)
+
+### A. Rekommenderad (109 tecken)
+Bifoga: skärminspelning av sajten, PLAY TAPE → bruset → han ligger där.
 ```
-$POSSUM is live.
+possums play dead when they're scared.
 
-The coin for everyone who plays dead instead of selling.
+so do you.
 
-You know the move. The chart dumps 60%, you don't sell. You close the app and lie very still.
+$POSSUM
 
-Possums do the same thing. Scared, they drop on their back, tongue out. They don't choose to. It's a reflex.
+CA: 6MAMveFSkF7syYWy8Nf8xscUsZsTaX8VKqcJZgnepump
+```
 
-So he's our mascot. He plays dead every dip and never lets go of the bag.
+### B. (110 tecken)
+Bifoga: klippet när han välter över på rygg.
+```
+when the chart goes red and you just lie very still
 
-→ No utility. No roadmap. It's a meme.
-→ The site runs on the live $POSSUM chart: green, he's up. Red, he's on his back.
-→ Make your toe tag: proof you played dead and still held.
-→ Grab the reaction pack and post him under every red chart on CT.
+$POSSUM
 
-Not a strategy. A reflex.
+CA: 6MAMveFSkF7syYWy8Nf8xscUsZsTaX8VKqcJZgnepump
+```
 
-CA: [CA]
-[länk]
+### C. (136 tecken)
+Bifoga: caps/01 "subject down".
+```
+CAM 02 · BACKYARD · 03:14 AM
+
+subject has not moved since the chart went red.
+
+$POSSUM
+
+CA: 6MAMveFSkF7syYWy8Nf8xscUsZsTaX8VKqcJZgnepump
+```
+
+### D. (83 tecken)
+Bifoga: teckningen.
+```
+it is me. i am the fool.
+
+$POSSUM
+
+CA: 6MAMveFSkF7syYWy8Nf8xscUsZsTaX8VKqcJZgnepump
 ```
 
 ## Efter launch
 
-### 1. Första timmarna: CA och kärnan (156 tecken)
+### 1. Första timmarna: CA och kärnan (205 tecken)
 ```
 $POSSUM
 
-CA: [CA]
+CA: 6MAMveFSkF7syYWy8Nf8xscUsZsTaX8VKqcJZgnepump
 
-the jester possum who plays dead every dip and never lets go of the bag.
-
-[länk]
-```
-
-### 2. Dag 1–2: toe tag station (248 tecken)
-Bifoga: skärmdump av ett ifyllt toe tag-kort.
-```
-opened a toe tag station for everyone who played dead today.
-
-put in your handle, how deep the dip went and how many days you've been down. it prints a morgue tag stamped STILL HOLDING.
-
-post yours under the next red chart.
+a jester possum caught on a backyard trail cam at 3 a.m., playing dead because the chart went red. bag still in his paws.
 
 [länk]
 ```
 
-### 3. Dag 2–3: narrativet (85 tecken)
-Bifoga: "playing dead" från reaction pack.
+### 2. Dag 1–2: SD-kortet (364 tecken)
+Bifoga: 3–4 sparade bilder från SD-kortet.
 ```
-possums can stay playing dead for hours.
+the trail cam in the backyard took 13 photos last night.
+
+subject down. trash can incident. on the grill. the cat checked. there are two now. leaving with the bag.
+
+open any of them on the site and hit save. it comes out with the cam's timestamp burned in, like real trail cam footage.
+
+that's what they're for. post them under red charts.
+
+[länk]
+```
+
+### 3. Dag 2–3: narrativet (77 tecken)
+Bifoga: caps/01 "subject down".
+```
+possums can play dead for hours.
 
 some of you have been doing it since march.
 ```
 
-### 4. Milstolpe (87 tecken)
-Bifoga: "back from the dead" från reaction pack.
+### 4. Milstolpe (80 tecken)
+Bifoga: caps/12 "back from the dead".
 ```
-[X] holders.
+CAM 02 · BACKYARD
+PIR: MOTION DETECTED
 
-[X] possums lying very still, bags in paws.
+[X]K mcap. he's up.
 
-nobody tell them it's green.
+the bag never left.
 ```
+
+## Under röda charts (svar, med en bild från SD-kortet)
+- caps/04: `one eye open. checking chart.`
+- caps/01: `this is called playing possum. he did not choose it.`
+- pfp/teckningen: `it is me. i am the fool.`

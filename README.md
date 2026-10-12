@@ -27,7 +27,7 @@ const CONFIG = {
 };
 ```
 
-- **Tom `ca`:** BUY och CA syns inte, och possumen ligger död.
+- **`ca`** är ifylld: `6MAMveFSkF7syYWy8Nf8xscUsZsTaX8VKqcJZgnepump`
 - **Med `ca`:** BUY går till pump.fun och CA-knappen och bevislappen dyker upp. Rörelsesensorn följer 1h-förändringen från Dexscreener:
   - över +3 % hoppar han upp (MOTION DETECTED)
   - under −3 % ligger han död (NO MOTION)
