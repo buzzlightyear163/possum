@@ -35,7 +35,7 @@ subject has not moved since the chart went red. bag still in paws. $POSSUM
 ## Launch-inlägg (kort, bilden gör jobbet, sajten ligger i profilen)
 
 ### A. Rekommenderad (109 tecken)
-Bifoga: skärminspelning av sajten, PLAY TAPE → bruset → han ligger där.
+Bifoga: brand/launch.jpg (eller en skärminspelning när du trycker PLAY TAPE).
 ```
 possums play dead when they're scared.
 
@@ -47,7 +47,7 @@ CA: 6MAMveFSkF7syYWy8Nf8xscUsZsTaX8VKqcJZgnepump
 ```
 
 ### B. (110 tecken)
-Bifoga: klippet när han välter över på rygg.
+Bifoga: brand/launch.jpg eller klippet när han välter över på rygg.
 ```
 when the chart goes red and you just lie very still
 
@@ -57,7 +57,7 @@ CA: 6MAMveFSkF7syYWy8Nf8xscUsZsTaX8VKqcJZgnepump
 ```
 
 ### C. (136 tecken)
-Bifoga: caps/01 "subject down".
+Bifoga: brand/launch-clean.jpg (utan textraden, eftersom inlägget redan säger den).
 ```
 CAM 02 · BACKYARD · 03:14 AM
 
@@ -69,7 +69,7 @@ CA: 6MAMveFSkF7syYWy8Nf8xscUsZsTaX8VKqcJZgnepump
 ```
 
 ### D. (83 tecken)
-Bifoga: teckningen.
+Bifoga: teckningen eller brand/launch.jpg.
 ```
 it is me. i am the fool.
 
