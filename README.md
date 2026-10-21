@@ -51,4 +51,4 @@ GitHub → Vercel med Framework Preset **Other**, inget build-kommando.
 - Typsnitten VT323, Bagel Fat One, Special Elite och Reenie Beanie laddas från Google Fonts.
 - Ljudet startar när du trycker PLAY TAPE och kan stängas av med SND.
 - Save i bildvisaren laddar ner en jpg med infofältet.
-- X-förhandsvisningen: om bilden inte syns, byt `/og.jpg` i meta-taggarna mot den fullständiga adressen.
+- X-förhandsvisningen använder https://www.thefoolpossum.fun/og.jpg.

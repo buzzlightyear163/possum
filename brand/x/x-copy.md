@@ -5,11 +5,7 @@ $POSSUM is a jester possum caught on a backyard trail cam at 3 a.m., playing dea
 
 ## Namn
 - Visningsnamn: `$POSSUM`
-- Handle (bäst först, kolla själv att de är lediga):
-  - @playingpossum: själva ordvitsen, hela skämtet i namnet
-  - @possumcam: matchar sajtens värld
-  - @possumonsol: säkert reservval
-  - @thefoolpossum: från teckningen, "I am the fool"
+- Handle: @TheFoolPossum (https://x.com/TheFoolPossum)
 
 ## Bio (kort, samma spår som launch-inläggen)
 Använd inte samma rad i bion som i det fästa inlägget.
@@ -29,7 +25,7 @@ red chart. didn't sell. didn't move. $POSSUM
 subject has not moved since the chart went red. bag still in paws. $POSSUM
 ```
 
-- Webbplats: [länk]
+- Webbplats: thefoolpossum.fun
 - Plats: `under the porch light`
 
 ## Launch-inlägg (kort, bilden gör jobbet, sajten ligger i profilen)
@@ -88,7 +84,7 @@ CA: 6MAMveFSkF7syYWy8Nf8xscUsZsTaX8VKqcJZgnepump
 
 a jester possum caught on a backyard trail cam at 3 a.m., playing dead because the chart went red. bag still in his paws.
 
-[länk]
+thefoolpossum.fun
 ```
 
 ### 2. Dag 1–2: SD-kortet (364 tecken)
@@ -102,7 +98,7 @@ open any of them on the site and hit save. it comes out with the cam's timestamp
 
 that's what they're for. post them under red charts.
 
-[länk]
+thefoolpossum.fun
 ```
 
 ### 3. Dag 2–3: narrativet (77 tecken)
